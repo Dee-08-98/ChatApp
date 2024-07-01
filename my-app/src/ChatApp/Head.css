@@ -1,0 +1,25 @@
+.header{
+   align-items: center;
+    padding: 15px 17px;
+    text-transform:uppercase;
+    letter-spacing: 1px;
+    font-weight: 900;
+    color: white;
+}
+.close{
+    /* float: right; */
+    padding: 15px 20px;
+    font-weight: 900;
+    color: white;
+    cursor: pointer;
+
+}
+.head{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    
+}
+a{
+    text-decoration: none;
+}

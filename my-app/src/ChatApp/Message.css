@@ -1,0 +1,24 @@
+.MessageBox{
+    color: black;
+    background-color: gainsboro;
+    padding: 1vmax;
+    /* padding: 10px 0px 10px 20px; */
+    margin: 1vmax;
+    /* margin: 10px 0px;  */
+    border-radius: 0.5vmax;
+    /* display: inline-block; */
+    width: auto;
+    clear: both;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif ;
+}
+.right{
+    float: right;
+    background-color: red;
+    color: white;
+}
+
+.left{
+    float:left;
+    background-color:green;
+    color: white;
+}
